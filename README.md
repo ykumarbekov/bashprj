@@ -1,1 +1,1 @@
-**Bash scripts for uploading Avro schemas to Confluent Schema Registry**
+**Different useful shell scripts**
