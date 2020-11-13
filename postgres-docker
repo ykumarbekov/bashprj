@@ -1,0 +1,2 @@
+docker pull postgres:9.6-alpine
+docker run --name postgres -d -p 54321:5432 -e POSTGRES_PASSWORD=postgres postgres:9.6-alpine
